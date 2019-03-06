@@ -13,14 +13,10 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma (string)
-  if sting == "I LOVE YOU GRANDMA!"
-    return "I LOVE YOU TOO PUMPKIN!"
-  else if string = string.upcase
-    return "NO, NOT SINCE 1938!"
-  else 
+  if sting != sting.upcase()
     return "HUH? SPEAK UP, SONNY!"
-  end
-end
+  else
+    return "NO, NOT SINCE 1938!"
 end
     
     
