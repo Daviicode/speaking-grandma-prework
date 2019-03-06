@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma (string)
-  if sting != sting.upcase()
+  if sting !== sting.upcase()
     return "HUH? SPEAK UP, SONNY!"
   else
     return "NO, NOT SINCE 1938!"
